@@ -56,6 +56,6 @@ if __name__ == '__main__':
     maria_finalista = Finalista(maria)
     juan_finalista = Finalista(juan)
 
-    print(maria_finalista.puesto, juan_finalista.puesto)
+    print(maria_finalista.posicion, juan_finalista.posicion)
 
-    juan_finalista.puesto = 1
+    juan_finalista.posicion = 1
